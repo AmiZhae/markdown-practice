@@ -6,15 +6,15 @@ Hello! My name is **Amirul Zharif**.
 
 
 
-This repository was created to practice \*\*Git, GitHub, and Markdown\*\*.
+This repository was created to practice **Git, GitHub, and Markdown**.
 
 
 
-\---
+---
 
 
 
-\## 📝 What is Markdown?
+## 📝 What is Markdown?
 
 
 
@@ -28,109 +28,108 @@ Markdown files normally use the `.md` extension.
 
 
 
-\## ✨ Text Formatting
+## ✨ Text Formatting
 
 
 
-\### Bold
+### Bold
 
 
 
-\*\*This text is bold.\*\*
+**This text is bold.**
 
 
 
-\### Italic
+### Italic
 
 
 
-\*This text is italic.\*
+*This text is italic.*
 
 
 
-\### Bold and Italic
+### Bold and Italic
 
 
 
-\*\*\*This text is bold and italic.\*\*\*
+***This text is bold and italic.***
 
 
 
-\### Strikethrough
+### Strikethrough
 
 
 
-\~\~This text is crossed out.\~\~
+~~This text is crossed out.~~
 
 
 
-\---
+---
 
 
 
-\## 📋 Lists
+## 📋 Lists
 
 
 
-\### Unordered List
+### Unordered List
 
 
 
-\- Git
+- Git
 
-\- GitHub
+- GitHub
 
-\- Markdown
+- Markdown
 
-\- Visual Studio Code
+- Visual Studio Code
 
 
 
-\### Ordered List
+### Ordered List
 
 
 
-1\. Install Git
+1. Install Git
 
-2\. Configure Git
+2. Configure Git
 
-3\. Create a repository
+3. Create a repository
 
-4\. Create Markdown
+4. Create Markdown
 
-5\. Commit changes
+5. Commit changes
 
-6\. Push to GitHub
+6. Push to GitHub
 
 
 
-\---
+---
 
 
 
-\## ☑️ Task List
+## ☑️ Task List
 
 
 
-\- \[x] Install Git
+- [x] Install Git
 
-\- \[x] Configure Git
+- [x] Configure Git
 
-\- \[x] Clone Django repository
+- [x] Clone Django repository
 
-\- \[x] Learn Markdown
+- [x] Learn Markdown
 
-\- \[x] Create README
+- [x] Create README
 
-\- \[ ] Learn more about Git
 
 
 
-\---
+---
 
 
 
-\## 💻 Code Example
+## 💻 Code Example
 
 
 
