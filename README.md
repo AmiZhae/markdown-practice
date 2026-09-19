@@ -6,7 +6,7 @@ Hello! My name is **Amirul Zharif**.
 
 
 
-This repository was created to practice **Git, GitHub, and Markdown**.
+This repository was created to practice **Git, GitHub, and Markdown** for 모바일 웹/서비스 프로젝트 course.
 
 
 
