@@ -1,8 +1,8 @@
-\# 📘 My Markdown Practice
+# 📘 My Markdown Practice
 
 
 
-Hello! My name is \*\*Amirul Zharif\*\*.
+Hello! My name is **Amirul Zharif**.
 
 
 
